@@ -1,6 +1,6 @@
 This is the baseline files for the ARM ISA simulator.
 
-Memory Map is as follow (in shell.c)
+Memory Map is as follows (in shell.c)
 
 #define MEM_DATA_START  0x10000000<br>
 #define MEM_DATA_SIZE   0x00100000<br>
